@@ -90,3 +90,15 @@ console.log(minhaIdade);
 ```
 
 No exemplo 2, apesar de ser uma função anônima, declaramos ela dentro de uma constante, que poderá chamar a função como feito acima.
+
+
+### Arrow Functions
+Arrow functions é uma forma simplificada de declarações funções no JavaScript. Seguem a seguinte sintaxe:
+
+```
+(parâmetros) => {
+  desenvolvimento da função
+}
+```
+
+Podemos usar as Arrow Functions nas mesmas ocasiões que todas as demais funções, apenas muda a sintaxe.
